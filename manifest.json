@@ -1,6 +1,6 @@
 {
   "name": "Dompet Pintar",
-  "short_name": "DompetKu",
+  "short_name": "Dompet Pintar",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f9fafb",
@@ -13,4 +13,5 @@
       "type": "image/png"
     }
   ]
+
 }
