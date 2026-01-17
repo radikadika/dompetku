@@ -1,6 +1,6 @@
-const CACHE_NAME = 'dompet-pintar-v1';
+const CACHE_NAME = 'dompet-pintar-v1.0.1';
 const urlsToCache = [
-  './Dompet.html',
+  './index.html',
   './icon.png',
   './manifest.json',
   // Kita cache juga aset eksternal yang dipakai di HTML Anda

@@ -1,7 +1,7 @@
 {
   "name": "Dompet Pintar",
   "short_name": "DompetKu",
-  "start_url": "./Dompet.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f9fafb",
   "theme_color": "#059669",
